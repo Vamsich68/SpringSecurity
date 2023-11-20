@@ -1,0 +1,14 @@
+
+spring:
+  datasource:
+    url: jdbc:h2:mem::tesdb
+
+  #security:
+    #user:
+      #name: ashok
+      #password: ashok
+#server:
+  #servlet:
+    #session:
+      #cookie:
+        #same-site: strict
